@@ -34,6 +34,6 @@ B.Tech Computer Science (AI & ML) student at Malla Reddy University, Hyderabad. 
 
 ## Connect
 
-- Portfolio: [javvajiakhilkumar.netlify.app](https://javvajiakhilkumar.netlify.app)
+- Portfolio: [javvajiakhilkumar.vercel.app](https://javvajiakhilkumar.vercel.app/)
 - LinkedIn: [javvaji-akhil-kumar060605](https://www.linkedin.com/in/javvaji-akhil-kumar060605/)
 - Email: [javvajiakhil73@gmail.com](mailto:javvajiakhil73@gmail.com)
